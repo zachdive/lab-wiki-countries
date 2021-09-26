@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.countryDetailsImg{
+  width: 100px;
+  }
+  
+  .countryDetailTd{
+    width: 30%;
+  }
+  
+  .countriesListDiv{
+    max-height: 90vh; 
+    overflow: scroll;
+  }
+  
+  .linkACursor{
+    cursor:pointer !important;
+  }
+  
+  /* AL COUNTRY LIST COMPONENT CSS */
+  .countriesListImage{
+    width:80px;
+  }
+  
+  .countryListA{
+    display:flex !important;
+    align-items:center;
+    background-color: #ccecf5d5 !important;
+  }
+  
+  .countryListA:hover{
+    background-color: #a8ebfdd5 !important;
+  }
+  
+  .p
+  NoMargin{
+    margin: 0 0 0 30px;
+  }
+  
+  
